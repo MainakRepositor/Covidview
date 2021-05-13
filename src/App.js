@@ -77,6 +77,8 @@ const App = () => {
       <div className="app__left">
         <div className="app__header">
           <h1>COVID-VIEW</h1>
+            <br>
+           <p>Made by <a href="https://www.linkedin.com/in/mainak-chaudhuri-127898176/">Mainak</a></p>
           <FormControl className="app__dropdown">
             <Select
               variant="outlined"
